@@ -1,0 +1,16 @@
+<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="Mobile">
+<path id="Vector 62" d="M14.3734 21.1371L9.62665 21.1371C7.57324 21.1371 5.90863 19.4724 5.90863 17.419L5.90863 6.58096C5.90863 4.52755 7.57324 2.86294 9.62665 2.86294L14.3734 2.86294C16.4268 2.86294 18.0914 4.52755 18.0914 6.58096L18.0914 17.419C18.0914 19.4724 16.4268 21.1371 14.3734 21.1371Z" stroke="url(#paint0_linear_5_50)" stroke-width="1.7"/>
+<path id="Vector 64" d="M9.96954 17.5838H14.0305" stroke="url(#paint1_linear_5_50)" stroke-width="1.7" stroke-linecap="round"/>
+</g>
+<defs>
+<linearGradient id="paint0_linear_5_50" x1="5.90863" y1="12" x2="18.0914" y2="12" gradientUnits="userSpaceOnUse">
+<stop stop-color="#15B9B9"/>
+<stop offset="1" stop-color="#3C1DFF"/>
+</linearGradient>
+<linearGradient id="paint1_linear_5_50" x1="12" y1="17.5838" x2="12" y2="18.5838" gradientUnits="userSpaceOnUse">
+<stop stop-color="#15B9B9"/>
+<stop offset="1" stop-color="#3C1DFF"/>
+</linearGradient>
+</defs>
+</svg>

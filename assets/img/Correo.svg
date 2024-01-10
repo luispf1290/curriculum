@@ -1,0 +1,16 @@
+<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="Correo">
+<path id="Vector" d="M18.2222 6.11783H5.77778C4.79594 6.11783 4 6.88534 4 7.83211V16.4035C4 17.3503 4.79594 18.1178 5.77778 18.1178H18.2222C19.2041 18.1178 20 17.3503 20 16.4035V7.83211C20 6.88534 19.2041 6.11783 18.2222 6.11783Z" stroke="url(#paint0_linear_6_76)" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"/>
+<path id="Vector_2" d="M4 8.11783L12 13.1178L20 8.11783" stroke="url(#paint1_linear_6_76)" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+<defs>
+<linearGradient id="paint0_linear_6_76" x1="12" y1="6.11783" x2="12" y2="18.1178" gradientUnits="userSpaceOnUse">
+<stop stop-color="#15B9B9"/>
+<stop offset="1" stop-color="#3C1DFF"/>
+</linearGradient>
+<linearGradient id="paint1_linear_6_76" x1="12" y1="8.11783" x2="12" y2="13.1178" gradientUnits="userSpaceOnUse">
+<stop stop-color="#15B9B9"/>
+<stop offset="1" stop-color="#3C1DFF"/>
+</linearGradient>
+</defs>
+</svg>
