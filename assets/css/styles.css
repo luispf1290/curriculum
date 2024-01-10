@@ -1,0 +1,47 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300&family=Roboto&display=swap');
+
+body {
+    background-color: black;
+    color: white;
+    font-family: 'Poppins', sans-serif;
+    font-style: normal;
+}
+
+h1 {
+    font-size: 35.259px;
+    font-weight: 600;
+    line-height: 150.316%;
+}
+
+h2 {
+    font-size: 15.117px;
+    font-style: normal;
+    font-weight: 300;
+    line-height: normal;
+    letter-spacing: 0.227px;
+    text-transform: uppercase;
+}
+
+h3 {
+    font-size: 12.368px;
+    font-weight: 700;
+    line-height: normal;
+    letter-spacing: 0.186px;
+    text-transform: uppercase;
+}
+
+p,
+li {
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 300;
+    line-height: normal;
+    letter-spacing: 0.18px;
+}
+
+.text-primary {
+    background: var(--degradado, linear-gradient(180deg, #15B9B9 0%, #3C1DFF 100%));
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
