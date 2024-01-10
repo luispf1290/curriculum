@@ -1,4 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300&family=Roboto&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@600&display=swap');
+
 
 body {
     background-color: black;
@@ -10,12 +12,10 @@ body {
 h1 {
     font-size: 35.259px;
     font-weight: 600;
-    line-height: 150.316%;
 }
 
 h2 {
     font-size: 15.117px;
-    font-style: normal;
     font-weight: 300;
     line-height: normal;
     letter-spacing: 0.227px;
@@ -30,18 +30,63 @@ h3 {
     text-transform: uppercase;
 }
 
+ul {
+    list-style-image: url('/assets/img/viñeta.svg');
+}
+
 p,
 li {
     font-size: 12px;
-    font-style: normal;
     font-weight: 300;
     line-height: normal;
     letter-spacing: 0.18px;
 }
+
 
 .text-primary {
     background: var(--degradado, linear-gradient(180deg, #15B9B9 0%, #3C1DFF 100%));
     background-clip: text;
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
+    font-size: 35.259px;
+    font-weight: 600;
+}
+
+.text-secondary {
+    background: var(--degra2, linear-gradient(90deg, #15B9B9 0%, #257AD5 100%));
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-size: 12px;
+    font-weight: 500;
+    line-height: normal;
+}
+
+.container-title {
+    display: flex;
+    flex-direction: row;
+}
+
+.container-title>h1 {
+    padding-right: 18px;
+}
+
+.container-text {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-items: center;
+    padding: 0px;
+}
+
+.container-text>img {
+    padding-right: 5px;
+}
+
+.container-text>p {
+    margin-top: 18px;
+}
+
+.container-list {
+    margin-top: 10px;
 }
