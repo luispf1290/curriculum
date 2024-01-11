@@ -40,6 +40,10 @@ li {
     letter-spacing: 0.18px;
 }
 
+a:hover {
+    color: #15B9B9;
+}
+
 
 .text-primary {
     background: var(--degradado, linear-gradient(180deg, #15B9B9 0%, #3C1DFF 100%));
@@ -93,6 +97,27 @@ li {
 
 .container-objetivo {
     margin-top: 15px;
+}
+
+.container-icons {
+    padding: 10px
+}
+
+.container-footer {
+    display: flex;
+    flex-direction: row;
+    align-items: baseline;
+    align-content: space-between;
+    color: white;
+    text-decoration: none;
+
+}
+
+
+.container-footer>p {
+    padding-left: 8px;
+    font-size: 12px;
+    font-weight: 300;
 }
 
 /* smartphones */
